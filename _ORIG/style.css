@@ -1,0 +1,87 @@
+body {
+}
+
+.background {
+    background-image: url("assets/images/bw_abstract_squares.png");
+}
+
+#logo {
+    margin: 0;
+    padding: 26px;
+    color: black;
+    font-size: 28px;
+    background-color: #d8bd7e;
+    width: 160px;
+    float: left;
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    color: #fff;
+}
+
+hr {
+    margin: 20px 0 20px 0;
+    height:3px; 
+    border:none; 
+    color:#fff; 
+    background-color:#fff
+}
+
+.nav {
+    padding: 11px;
+    text-align: right;
+  }
+
+.nav li {
+    display: inline-block;
+    margin: 10px 20px;
+    vertical-align: center;
+  }
+
+.nav a {
+    color: #d8bd7e;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #d8d8d8;
+}
+
+.primary-header {
+    background-color: #2d2d2d;
+    height: 80px;
+    color: white;
+  }
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.main-section, p {
+    margin: 20px 0 0 0;
+    padding: 25px;
+    background-color: #2d2d2d;
+    color: white;
+    
+}
+
+.content {
+    min-height: 100%;
+  }
+
+#bio-image {
+    width: 200px;
+}  
+
+.content-inside {
+    padding-bottom: 50px;
+    background-color: #d8bd7e;
+}
+
+.footer {
+    height: 50px;
+    margin-top: -50px;
+}
